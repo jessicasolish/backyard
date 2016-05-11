@@ -1,0 +1,10 @@
+span{
+	color:#E53614;
+}
+.fondo{
+	background-image:url("../images/1920x665-1.jpg");
+	backgroun-color:#736B6B;
+	@mixin opaque {
+  @include opacity(1);
+		}
+}
